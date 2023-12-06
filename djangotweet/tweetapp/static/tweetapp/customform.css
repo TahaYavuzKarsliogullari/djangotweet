@@ -1,0 +1,12 @@
+.tweetform {
+    border: 8px solid black;
+    padding: 25px;
+}
+
+
+.tweetmessage {
+    border: 2px solid green;
+    width: 200;
+    height: 100px;
+    padding: 10px;
+}
